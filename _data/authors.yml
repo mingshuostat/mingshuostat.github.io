@@ -1,18 +1,15 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Mingshuo Liu:
+  name        : "Mingshuo Liu"
+  uri         : "https://mingshuostat.github.io"
+  email       : "mshliu@ucdavis.edu"
+  bio         : "Ph.D. student in Statistics at UC Davis"
+  avatar      : "/images/profile.jpg"
+  employer    : "University of California, Davis"
+  location    : "Davis, CA"
+  # 如果暂时不用，可以留空
+  twitter     : ""
+  linkedin    : "https://www.linkedin.com/in/stat-mingshuo"
+  github      : "https://github.com/mingshuostat"
+  scholar     : "https://scholar.google.com/citations?user=XXXX"
