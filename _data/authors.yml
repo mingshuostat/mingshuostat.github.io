@@ -2,14 +2,14 @@
 
 Mingshuo Liu:
   name        : "Mingshuo Liu"
-  uri         : "https://mingshuostat.github.io"
+  #uri         : "https://mingshuostat.github.io"
   email       : "mshliu@ucdavis.edu"
   bio         : "Ph.D. student in Statistics at UC Davis"
-  avatar      : "/images/profile.jpg"
+  avatar      : "/images/profile.png"
   employer    : "University of California, Davis"
-  location    : "Davis, CA"
+  #location    : "Davis, CA"
   # 如果暂时不用，可以留空
-  twitter     : ""
+  #twitter     : ""
   linkedin    : "https://www.linkedin.com/in/stat-mingshuo"
-  github      : "https://github.com/mingshuostat"
+  #github      : "https://github.com/mingshuostat"
   scholar     : "https://scholar.google.com/citations?user=XXXX"
