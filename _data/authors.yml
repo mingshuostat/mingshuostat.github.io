@@ -3,8 +3,8 @@
 Mingshuo Liu:
   name        : "Mingshuo Liu"
   #uri         : "https://mingshuostat.github.io"
-  email       : "mshliu@ucdavis.edu"
-  bio         : "Ph.D. student in Statistics at UC Davis"
+  #email       : "mshliu@ucdavis.edu"
+  bio         : "mshliu@ucdavis.edu"
   avatar      : "/images/profile.png"
   employer    : "University of California, Davis"
   #location    : "Davis, CA"
