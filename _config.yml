@@ -20,7 +20,6 @@ repository: "mingshuostat/mingshuostat.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  Biographic information
   avatar           : "/images/profile.jpg"
   name             : "Mingshuo Liu"
   pronouns         : "he/his"  
