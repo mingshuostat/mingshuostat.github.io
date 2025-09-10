@@ -19,16 +19,16 @@ repository: "mingshuostat/mingshuostat.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-# author:
-  # Biographic information
-  # avatar           : "/images/profile.jpg"
-  # name             : "Mingshuo Liu"
-  # pronouns         : "he/his"  
-  # bio              : "mshliu at ucdavis.edu"
-  # location         : #"Davis, CA, USA"
-  # employer         : "University of California, Davis"
-  # uri              : # URL
-  # email            : #"mshliu at ucdavis.edu" 
+author:
+  Biographic information
+  avatar           : "/images/profile.jpg"
+  name             : "Mingshuo Liu"
+  pronouns         : "he/his"  
+  bio              : "mshliu at ucdavis.edu"
+  location         : #"Davis, CA, USA"
+  employer         : "University of California, Davis"
+  uri              : # URL
+  email            : #"mshliu at ucdavis.edu" 
 
   # Academic websites
   academia         : # URL
