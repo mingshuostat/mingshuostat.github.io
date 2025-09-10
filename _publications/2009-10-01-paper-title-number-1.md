@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-permalink: /publications/
 ---
 
 - **Mingshuo Liu**, Hao Chen, Miles Lopes. *Graph-based Independence Test*. 
