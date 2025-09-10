@@ -25,10 +25,10 @@ author:
   name             : "Mingshuo Liu"
   pronouns         : "he/his"  
   bio              : "mshliu at ucdavis.edu"
-  location         : #"Davis, CA, USA"
+  location         : # "Davis, CA, USA"
   employer         : "University of California, Davis"
   uri              : # URL
-  email            : #"mshliu at ucdavis.edu" 
+  email            : # "mshliu at ucdavis.edu" 
 
   # Academic websites
   academia         : # URL
