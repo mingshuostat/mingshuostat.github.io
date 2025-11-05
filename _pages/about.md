@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Welcome to my academic homepage and photography gallery.
 
-I am Mingshuo, currently a fifth-year Ph.D. Candidate in Statistics at UC Davis, advised by Professor [Hao Chen](https://anson.ucdavis.edu/~haochen/index.html) and Professor [Miles Lopes](https://anson.ucdavis.edu/~melopes/). Before that, I earned my B.S. in Statistics from Southern University of Science and Technology in 2021. My research focuses on high-dimensional methodology and theory. On the methodological side, we represent high-dimensional data using similarity graphs and construct test statistics based on the graph structures. On the theoretical side, I work on developing tools that can support a broad range of statistical methods.
+I am Mingshuo, currently a fifth-year Ph.D. Candidate in Statistics at UC Davis, advised by Professor [Hao Chen](https://anson.ucdavis.edu/~haochen/index.html) and Professor [Miles Lopes](https://anson.ucdavis.edu/~melopes/). Before that, I earned my B.S. in Statistics from Southern University of Science and Technology in 2021. My research focuses on high-dimensional methodology and theory. On the methodological side, we represent high-dimensional data using similarity graphs and construct test statistics based on the graph structures. On the theoretical side, I work on developing tools that can support a broad range of statistical methods. 
 
 I am always open to collaborations and excited to explore new research directions. Please feel free to reach out if you’re interested in working together!
 
