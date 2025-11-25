@@ -11,7 +11,7 @@ author_profile: true
 
 1. **Liu, M.**, and Lopes, M.E. (2024). *Robust Max Statistics for High-Dimensional Inference*, major revision, *Statistica Sinica.* [\[arxiv\]](https://arxiv.org/abs/2409.16683) 
 
-1. Cai, Z.\*, Fei, W.\*, **Liu, M.\***, and Zhou, D.\* (2025). *MATES: Multi-view Aggregated Two-Sample Test*, reject and resubmission, *Journal of the American Statistical Association.*
+1. Cai, Z.\*, Fei, W.\*, **Liu, M.\***, and Zhou, D.\* (2025). *MATES: Multi-view Aggregated Two-Sample Test*.
 
 1. **Liu, M.\***, Zhou, D.\*, and Chen, H. (2024). *Generalized Independence Test for Modern Data*. [\[arxiv\]](https://arxiv.org/abs/2409.07745)
 
