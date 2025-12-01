@@ -19,6 +19,9 @@ author_profile: true
 
 1. Zhu, Q.\*, **Liu, M.\***, Han, Y., and Zhou, D. (2025). *WISE: A Weighted Similarity Aggregation Test for Serial Independence*. [\[arxiv\]](https://arxiv.org/abs/2509.05678) [\[R package\]](https://cran.r-project.org/web/packages/SimIndep/index.html)
 
+1. Vu, M.D.\*, **Liu, M.\***, and Zhou, D. (2025). *A Trainable Centrality Framework for Modern Data*. [\[arxiv\]](https://arxiv.org/abs/2511.22959)
+  
+
 ---
 
 ## Software
