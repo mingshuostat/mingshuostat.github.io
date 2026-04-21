@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mingshuo Liu (Follow My Lens)"
+title                    : "Mingshuo Liu"
 title_separator          : "-"
 name                     : &name "Mingshuo Liu/刘明硕"
 description              : &description "personal description"
