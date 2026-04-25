@@ -9,7 +9,7 @@ author_profile: true
 ## Preprints  
 <small>\* Contributed equally or listed in alphabetical order</small>
 
-1. **Liu, M.**, and Lopes, M.E. (2024). *Robust Max Statistics for High-Dimensional Inference*, major revision, *Statistica Sinica.* [\[arxiv\]](https://arxiv.org/abs/2409.16683) 
+1. **Liu, M.**, and Lopes, M.E. (2024). *Robust Max Statistics for High-Dimensional Inference*, To appear: *Statistica Sinica, 2026+.* [\[arxiv\]](https://arxiv.org/abs/2409.16683) 
 
 1. **Liu, M.\***, Zhou, D.\*, and Chen, H. (2024). *Generalized Independence Test for Modern Data*. [\[arxiv\]](https://arxiv.org/abs/2409.07745)
 
