@@ -18,6 +18,7 @@ My research focuses on high-dimensional methodology and theory. You can check my
 Outside of research, I enjoy sports and photography, and I am deeply fascinated by the stars and the universe. You can find some of my photography [here](https://mingshuostat.github.io/photograph/).
 
 
+<!--
 <br><br><br>
 
 <h2 id="visitors">Visitors Map</h2>
@@ -25,3 +26,4 @@ Outside of research, I enjoy sports and photography, and I am deeply fascinated 
 <div style="max-width:320px;margin:0 auto 1.5rem;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=RkLO2C4qjLfW4layRz7bju2U46_bm6RfSg_zQp7fbJQ&cl=ffffff&w=a"></script>
 </div>
+-->
