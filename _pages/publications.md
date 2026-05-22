@@ -22,7 +22,7 @@ author_profile: true
 
 1. Vu, M.D.\*, **Liu, M.\***, and Zhou, D. (2025). *A Trainable Centrality Framework for Modern Data*. [\[arxiv\]](https://arxiv.org/abs/2511.22959)
   
-1. **Liu, M.**, Wang, S. and Lopes, M.E. (2026). *A Goodness-of-Fit Test for Independent Component Models in High Dimensions*. [\[arxiv\]](https://arxiv.org/abs/2605.20099)
+1. **Liu, M.**, Wang, S. and Lopes, M.E. (2026). *A Goodness-of-Fit Test for Independent Component Models in High Dimensions*. [\[arxiv\]](https://arxiv.org/abs/2605.20099) [\[Github\]](https://github.com/mingshuostat/ic-model-test)
 
 ---
 
