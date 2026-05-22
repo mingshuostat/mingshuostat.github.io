@@ -15,13 +15,14 @@ author_profile: true
 
 1. Cai, Z.\*, Fei, W.\*, **Liu, M.\***, and Zhou, D.\* (2025). *MATES: Multi-view Aggregated Two-Sample Test*.
 
-1. Kang, Y., **Liu, M.**, Yi, B., Lyu, J., Zhang, Z., Zhou, D., and Li, Y. (2025). *Single Index Bandits: Generalized Linear Contextual Bandits with Unknown Reward Functions.* ICLR 2026 (accepted). [\[arxiv\]](https://arxiv.org/abs/2506.12751)
+1. Kang, Y., **Liu, M.**, Yi, B., Lyu, J., Zhang, Z., Zhou, D., and Li, Y. *Single Index Bandits: Generalized Linear Contextual Bandits with Unknown Reward Functions.* ICLR 2026 (accepted). [\[arxiv\]](https://arxiv.org/abs/2506.12751)
 
 
 1. Zhu, Q.\*, **Liu, M.\***, Han, Y., and Zhou, D. (2025). *WISE: A Weighted Similarity Aggregation Test for Serial Independence*. [\[arxiv\]](https://arxiv.org/abs/2509.05678) [\[R package\]](https://cran.r-project.org/web/packages/SimIndep/index.html)
 
 1. Vu, M.D.\*, **Liu, M.\***, and Zhou, D. (2025). *A Trainable Centrality Framework for Modern Data*. [\[arxiv\]](https://arxiv.org/abs/2511.22959)
   
+1. **Liu, M.**, Wang, S. and Lopes, M.E. (2026). *A Goodness-of-Fit Test for Independent Component Models in High Dimensions*. [\[arxiv\]](https://arxiv.org/abs/2605.20099)
 
 ---
 
