@@ -9,7 +9,7 @@ author_profile: true
 ## Published & Accepted
 <small>\* Contributed equally or listed in alphabetical order</small>
 
-1. **Liu, M.**, and Lopes, M.E. (2024). *Robust Max Statistics for High-Dimensional Inference*, To appear: *Statistica Sinica, 2026+.* [\[arxiv\]](https://arxiv.org/abs/2409.16683) 
+1. **Liu, M.**, and Lopes, M.E. *Robust Max Statistics for High-Dimensional Inference*, To appear: *Statistica Sinica, 2026+.* [\[arxiv\]](https://arxiv.org/abs/2409.16683)
 
 1. Kang, Y., **Liu, M.**, Yi, B., Lyu, J., Zhang, Z., Zhou, D., and Li, Y. *Single Index Bandits: Generalized Linear Contextual Bandits with Unknown Reward Functions.* ICLR 2026 (accepted). [\[arxiv\]](https://arxiv.org/abs/2506.12751)
 
