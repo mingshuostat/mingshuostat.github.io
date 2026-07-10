@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Mingshuo Liu"
 title_separator          : "-"
 name                     : &name "Mingshuo Liu/刘明硕"
-description              : &description "personal description"
+description              : &description "Personal academic website of Mingshuo Liu, Ph.D. Candidate in Statistics at UC Davis."
 url: "https://mingshuostat.github.io"
 repository: "mingshuostat/mingshuostat.github.io"
 
