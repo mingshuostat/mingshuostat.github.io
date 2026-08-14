@@ -21,3 +21,6 @@ author_profile: true
 
 - **Adaptive Two-Sample Test Using Graph-based Method**  
   - Joint Statistical Meetings (JSM), Nashville, TN — *Aug 2025*
+
+- **A Hypothesis Test for Independent Component Models under the High-Dimensional Regime**  
+  - Joint Statistical Meetings (JSM), Boston, MA — *Aug 2026*
