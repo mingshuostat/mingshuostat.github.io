@@ -26,6 +26,8 @@ author_profile: true
   
 1. **Liu, M.**, Wang, S. and Lopes, M.E. (2026). *A Goodness-of-Fit Test for Independent Component Models in High Dimensions*. [\[arxiv\]](https://arxiv.org/abs/2605.20099) [\[Github\]](https://github.com/mingshuostat/ic-model-test)
 
+1. **Liu, M.**, and Chen, H. (2026). *Graph-Based Change-Point Detection for Partially Observed High-Dimensional Data*. [\[arxiv\]](https://arxiv.org/abs/2609.06550)
+
 ---
 
 ## Software
