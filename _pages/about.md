@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Welcome to my academic homepage and photography gallery.
 
-This is Mingshuo, currently a fifth-year Ph.D. Candidate in Statistics at UC Davis. I have been extremely fortunate to be advised by Professor [Hao Chen](https://anson.ucdavis.edu/~haochen/index.html) and Professor [Miles Lopes](https://anson.ucdavis.edu/~melopes/). I am also grateful to the senior collaborator and close friend [Doudou Zhou](https://doudouzhou.github.io/) for his encouragement. Before my Ph.D. studies, I earned my B.S. in Statistics from Southern University of Science and Technology in 2021.
+I am currently a Postdoctoral Scholar at Stanford University, where I work with [Lu Tian](https://statistics.stanford.edu/people/lu-tian). I received my Ph.D. in Statistics from the University of California, Davis in 2026, where I was fortunate to be advised by Professor [Hao Chen](https://anson.ucdavis.edu/~haochen/index.html) and Professor [Miles Lopes](https://anson.ucdavis.edu/~melopes/). I am also grateful to the senior collaborator and close friend [Doudou Zhou](https://doudouzhou.github.io/) for his encouragement. Before my Ph.D. studies, I earned my B.S. in Statistics from Southern University of Science and Technology in 2021.
  
 My research focuses on high-dimensional methodology and theory. Recently, I am working on some transfer learning and causal inference problems. You can check my papers [here](https://mingshuostat.github.io/publications/). I am always open to collaborations and excited to explore new research directions. Please feel free to reach out if you’re interested in working together! 
 
