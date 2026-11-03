@@ -28,6 +28,8 @@ author_profile: true
 
 1. **Liu, M.**, and Chen, H. (2026). *Graph-Based Change-Point Detection for Partially Observed High-Dimensional Data*. [\[arxiv\]](https://arxiv.org/abs/2609.06550)
 
+1. **Liu, M.\***, Zhu, Q.\*, Liao, J., Tian, L., and Zhou, D. (2026). *Graph-Based Testing of Conditional Mean Independence with Applications to Large Language Model Evaluation*. [\[arxiv\]](https://arxiv.org/abs/2611.01773)
+
 ---
 
 ## Software
